@@ -11,4 +11,4 @@ This reporsitory contains jest testing expample
 
 ## Report
   
- open file:  ./coverage/lcov-report/index.html
+- open file:  ./coverage/lcov-report/index.html
